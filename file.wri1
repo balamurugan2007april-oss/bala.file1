@@ -5,6 +5,9 @@ int main()
     cout << " This is the code 1" ;
     return 0;
 }
+<<<<<<< HEAD
 
 Thus programme is completed
 
+=======
+>>>>>>> e03fe06d46e3c6a6a2d0d5be6fd473afa42acb88
