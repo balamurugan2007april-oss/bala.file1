@@ -9,4 +9,8 @@ int main()
     return 0;
     
 }
+<<<<<<< HEAD
 >>>>>>> f758aeafa3ac5ecca50cdd6c0e7a81d63fc6ad2a
+=======
+>>>>>>> main
+>>>>>>> num1
