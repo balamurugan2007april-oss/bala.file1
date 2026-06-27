@@ -1,1 +1,12 @@
+<<<<<<< HEAD
 
+=======
+#include<iostream>
+using namespace std;
+int main()
+{
+    cout << " This is the first programme ";
+    return 0;
+    
+}
+>>>>>>> f758aeafa3ac5ecca50cdd6c0e7a81d63fc6ad2a
